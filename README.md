@@ -1,6 +1,5 @@
 # Housing Price Prediction
-
-This repository contains a machine learning project built using **Python** and **scikit-learn**.  
+ 
 The objective of this project is to build and evaluate linear regression models to predict house prices using structured real-world housing data.
 The project demonstrates an end-to-end data science workflow, including data cleaning, feature engineering, preprocessing, model training, and evaluation.
 
